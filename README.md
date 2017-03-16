@@ -1,3 +1,4 @@
+!(cover)[https://raw.githubusercontent.com/Co-de-iT/GH2SVG/master/media/GH-to-SVG.png]
 # GH2SVG  – YOUR GRAPHICS DIRECTLY FROM GRASSHOPPER
 a suite of components for saving SVG file directly from your Grasshopper file
   
@@ -32,9 +33,10 @@ This is a raw sketch of a Svg exporter and maybe it will be update but as Co-de-
   
 Some reference link just in case you want to understand more about SVG syntax and code:
   
-. [SVG examples](http://www.w3schools.com/svg/svg_examples.asp)
-. [SVG reference](http://www.w3schools.com/svg/svg_reference.asp)
+. [SVG examples](http://www.w3schools.com/svg/svg_examples.asp)  
+. [SVG reference](http://www.w3schools.com/svg/svg_reference.asp)  
   
   
 here below another example of SVG dataviz created using the GH to SVG definition:
   
+!(sample graph)[https://raw.githubusercontent.com/Co-de-iT/GH2SVG/master/media/Screenshot_4.png]
