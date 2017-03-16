@@ -26,7 +26,7 @@ Instructions:
 – Use all the clusters you need to convert your grasshopper geometries and text to svg syntax.  
 – use a merge component to collect all the data you want to export. Remember! the first data in the merge component will be on the bottom and the last one will be in front (as the photoshop layers) so if you want to chance the appearence position on the background of a set of geometries you can chance the position in the merge component.  
 – connect the merge component output data to the composer (all the data must be flattened).  
-- save your .svg file with the dedicated button in the definition.  
+– save your .svg file with the dedicated button in the definition.  
 – drag and drop your SVG file into a new Chrome Tab and press F5 to refresh the file after any change you do in GH*.  
      *there are some Chrome extensions that refresh the page after any change of source code but we haven’t tested it until now.  
 – or if you prefer open your SVG fle in your preferred graphic software as Inkscape or Illustrator.  
