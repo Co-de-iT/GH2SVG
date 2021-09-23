@@ -1,6 +1,6 @@
 ![cover](https://raw.githubusercontent.com/Co-de-iT/GH2SVG/master/media/GH-to-SVG.png)
 # GH2SVG  – YOUR GRAPHICS DIRECTLY FROM GRASSHOPPER
-a suite of components for saving SVG file directly from your Grasshopper file
+A suite of components for saving SVG file directly from your Grasshopper file
   
 We all know the value of data in computational design field. We often need to inform our models with several fluxes of information and just as often show those information using dataviz or infoviz graphics. Co-de-iT decides to maximize the workflow speed in Grasshopper and code some components in order to export real-time graphics in SVG format.  
   
@@ -39,6 +39,6 @@ Some reference link just in case you want to understand more about SVG syntax an
 . [SVG reference](http://www.w3schools.com/svg/svg_reference.asp)  
   
   
-here below another example of SVG dataviz created using the GH to SVG definition:
+Here below is another example of SVG dataviz created using the GH to SVG definition:
   
 ![sample graph](https://raw.githubusercontent.com/Co-de-iT/GH2SVG/master/media/Screenshot_4.png)
