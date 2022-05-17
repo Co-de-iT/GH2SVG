@@ -18,7 +18,7 @@ In the GH definition you will find these clusters:
 – text SVG  
 – composer SVG  
   
-The dataviz shown in the ‘GH to SVG’ definition is inspired by this [amazing serie of dataviz done by Simon Vorhammer](http://simonvorhammer.de/?portfolio_item=tree-diagram) I found [here](http://www.grasshopper3d.com/photo/hauer-iii-grasshopper-weaving-simon-vorhammer-30/prev?context=user).
+The dataviz shown in the ‘GH to SVG’ definition is inspired by an [amazing series of dataviz](https://www.grasshopper3d.com/photo/albums/data-vizualization-1) by [Simon Vorhammer](http://simonvorhammer.de).
   
 Instructions:  
 
